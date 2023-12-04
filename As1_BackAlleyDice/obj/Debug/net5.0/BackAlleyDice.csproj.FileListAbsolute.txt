@@ -1,0 +1,16 @@
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\bin\Debug\net5.0\BackAlleyDice.exe
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\bin\Debug\net5.0\BackAlleyDice.deps.json
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\bin\Debug\net5.0\BackAlleyDice.runtimeconfig.json
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\bin\Debug\net5.0\BackAlleyDice.runtimeconfig.dev.json
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\bin\Debug\net5.0\BackAlleyDice.dll
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\bin\Debug\net5.0\BackAlleyDice.pdb
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\obj\Debug\net5.0\BackAlleyDice.csproj.AssemblyReference.cache
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\obj\Debug\net5.0\BackAlleyDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\obj\Debug\net5.0\BackAlleyDice.AssemblyInfoInputs.cache
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\obj\Debug\net5.0\BackAlleyDice.AssemblyInfo.cs
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\obj\Debug\net5.0\BackAlleyDice.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\obj\Debug\net5.0\BackAlleyDice.dll
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\obj\Debug\net5.0\refint\BackAlleyDice.dll
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\obj\Debug\net5.0\BackAlleyDice.pdb
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\obj\Debug\net5.0\BackAlleyDice.genruntimeconfig.cache
+C:\Users\Pedro Enrique\Documents\00_REPOS\BackAlleyDice\As1_BackAlleyDice\obj\Debug\net5.0\ref\BackAlleyDice.dll
