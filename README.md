@@ -34,5 +34,10 @@ that the player is betting for and has a different reward depending on the chanc
 23                       Three Total             The sum of the dice is 9 or 12                                                                    7 to 1
 24                       Three Total             The sum of the dice is 10 or 11                                                                   6 to 1
 
+**How to play**
+Once you run the game in Visual Studio, you can press Y to Skip the Intro or any other key to see the intro.
+The user will be promted to choose which bet they want to place and how much money they want to bet.
+The initial credit of the player is 200, the game ends whenever the player looses all their money, or if the player already won over 100,000 credits. 
 
+Enjoy!
 
