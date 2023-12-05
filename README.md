@@ -7,7 +7,7 @@ To play the game, you can clone the repo, compile, and run the project in Visual
 This game is a dice-throwing game in which the player will have to bet for a number from 1 to 24. Each number represents a expected output for the dice
 that the player is betting for and has a different reward depending on the chances of said occurance. 
 
-
+```
 **Nuber of Bet**        **Bet Type**              **Bet Amount**                                                                                    **Odds**
 1                        Big                     The sum of the dice is between 11 and 17 (inclusive) with the exception of a triple               1 to 1
 2                        Small                   The sum of the dice is between 4 and 10 (inclusive) with the exception of a triple                1 to 1
@@ -33,6 +33,7 @@ that the player is betting for and has a different reward depending on the chanc
 22                       Three Total             The sum of the dice is 8 or 13                                                                    8 to 1
 23                       Three Total             The sum of the dice is 9 or 12                                                                    7 to 1
 24                       Three Total             The sum of the dice is 10 or 11                                                                   6 to 1
+```
 
 **How to play**
 Once you run the game in Visual Studio, you can press Y to Skip the Intro or any other key to see the intro.
